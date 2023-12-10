@@ -1,3 +1,2 @@
-# days years
-monday wed
-month
+# days
+monday
